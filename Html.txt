@@ -1,7 +1,7 @@
 Character customization.
 
-Supported tools: SelfCAD
-Signup for SelfCAD: https://www.selfcad.com/register
-Create your character: https://www.selfcad.com/app/
+Supported tools: Tinkercad
+Signup for Tinkercad: https://accounts.autodesk.com/register?AuthKey=5fdae090-3719-4b34-95e5-41c8a071e9d2&ReturnUrl=%2Fauthorize%3Fviewmode%3Diframe%26lang%3Den-US%26realm%3D%252A.tinkercad.com%26ctx%3Dtinkercad%26authtype%3Dsocialoradsk%26socialproviderpref%3DFB%2CGO%2CYH%2CWL%26AuthKey%3D5fdae090-3719-4b34-95e5-41c8a071e9d2&authtype=socialoradsk&ctx=tinkercad&lang=en-US&realm=%2A.tinkercad.com&socialproviderpref=FB%2CGO%2CYH%2CWL&viewmode=iframe
+Create your character: https://www.tinkercad.com/dashboard
 
 You may also use other tools, but if you are going to, please read our tool documentation: https://sites.google.com/view/hrs-soft-6484894732872943298/video-games_Curators/The_Synth_-_-vgbu/The_Synth_-_-vgbu__chcu/The_Synth_-_-vgbu__chcu_3d-tool-docs
